@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using RunnningWebApp_MVC.Data;
+using RunnningWebApp_MVC.Interfaces;
+using RunnningWebApp_MVC.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DbConnection"));
 });
+
+builder.Services.AddScoped<IClubRepository, ClubRepository>();
+builder.Services.AddScoped<IRaceRepository, RaceRepository>();  
 
 var app = builder.Build();
 
