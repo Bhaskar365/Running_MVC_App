@@ -64,3 +64,5 @@ C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.
 C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.0\RunnningWebApp_MVC.pdb
 C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.0\RunnningWebApp_MVC.genruntimeconfig.cache
 C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.0\ref\RunnningWebApp_MVC.dll
+C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
