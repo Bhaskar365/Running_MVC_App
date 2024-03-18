@@ -66,3 +66,4 @@ C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.
 C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.0\ref\RunnningWebApp_MVC.dll
 C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\bin\Debug\net6.0\CloudinaryDotNet.dll
 C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
