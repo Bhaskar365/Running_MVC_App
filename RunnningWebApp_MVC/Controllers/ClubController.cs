@@ -87,7 +87,7 @@ namespace RunnningWebApp_MVC.Controllers
                 return View("Edit", clubVM);
             }
 
-            var userClub = await _clubRepository.GetByIdAsync(id);
+            var userClub = await _clubRepository.GetByIdAsyncNoTracking(id);
 
             if (userClub != null)
             {
