@@ -6,7 +6,7 @@ namespace RunnningWebApp_MVC.ViewModels
     {
         [Display(Name = "Email Address")]
         [Required(ErrorMessage = "Email address is required")]
-        public string Email { get; set; }
+        public string EmailAddress { get; set; }
 
         [Required]
         [DataType(DataType.Password)]

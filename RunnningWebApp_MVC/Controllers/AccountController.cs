@@ -31,7 +31,7 @@ namespace RunnningWebApp_MVC.Controllers
         {
             if (!ModelState.IsValid) return View(loginViewModel);
 
-            var user = await _userManager.FindByEmailAsync(loginViewModel.Email);
+            var user = await _userManager.FindByEmailAsync(loginViewModel.EmailAddress);
 
             if(user != null) 
             {

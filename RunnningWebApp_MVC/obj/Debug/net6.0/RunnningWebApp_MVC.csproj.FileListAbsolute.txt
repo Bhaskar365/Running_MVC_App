@@ -62,3 +62,8 @@ C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.
 C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.0\RunnningWebApp_MVC.dll
 C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.0\refint\RunnningWebApp_MVC.dll
 C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.0\RunnningWebApp_MVC.pdb
+C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\bin\Debug\net6.0\RunnningWebApp_MVC.deps.json
+C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\bin\Debug\net6.0\RunnningWebApp_MVC.runtimeconfig.json
+C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\bin\Debug\net6.0\RunnningWebApp_MVC.pdb
+C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.0\RunnningWebApp_MVC.genruntimeconfig.cache
+C:\Angular_RunningPrograms\RunnningWebApp_MVC\RunnningWebApp_MVC\obj\Debug\net6.0\ref\RunnningWebApp_MVC.dll
