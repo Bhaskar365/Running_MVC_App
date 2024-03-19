@@ -54,5 +54,13 @@ namespace RunnningWebApp_MVC.Controllers
             TempData["Error"] = "User not found";
             return View(loginViewModel);
         }
+
+        public IActionResult Register()
+        {
+            var response = new RegisterViewModel();
+            return View(response);
+        }
+
+
     }
 }
